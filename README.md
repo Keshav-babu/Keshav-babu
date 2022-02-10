@@ -5,9 +5,8 @@ I am skilled in HTML,CSS & ADVANCE JAVASCRIPT
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 7903417535    
-Linkedin https://www.linkedin.com/in/keshav-mandal-403a61145/ 
-
-Email :- keshavbabu742@gmail.com
+- Linkedin https://www.linkedin.com/in/keshav-mandal-403a61145/ 
+- Email :- keshavbabu742@gmail.com
 
 
 <!---
