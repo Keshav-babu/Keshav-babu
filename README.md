@@ -5,7 +5,6 @@ An aspiring Full-Stack Web Developer with 1000+
 hours of coding experience in Javascript.
 
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
 
 
   
