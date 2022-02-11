@@ -33,8 +33,6 @@ hours of coding experience in Javascript.
 
 <br/>
 <p align="left">
-
-  <br/>
   <img alt="Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-babu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
@@ -45,7 +43,7 @@ hours of coding experience in Javascript.
     </a>
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
  </p>
-    <br/>
+<!--     <br/> -->
   <img alt="Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-babu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   
 
