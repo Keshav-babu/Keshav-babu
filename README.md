@@ -5,6 +5,9 @@ An aspiring Full-Stack Web Developer with 1000+
 hours of coding experience in Javascript.
 
 <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
+
+
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keshav-babu.github.io/pofolio/)
