@@ -26,18 +26,15 @@ hours of coding experience in Javascript.
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://expressjs.com" target="_blank"> <img src="https://sushanthps.vercel.app/express.webp" alt="express" width="45" height="45"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img width="40" height="40"  src="https://sushanthps.vercel.app/mysql.webp"/> </a>
     <a href="https://redux.js.org/" target="_blank"> <img width="55" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> </a>
-    <a href="https://www.java.com/en/" target="_blank"> <img width="40" height="40" src="https://sushanthps.vercel.app/java.webp"/> </a> &nbsp
-   <a href="https://www.python.org/download/releases/3.0/" target="_blank"> <img width="40" height="40" src="https://sushanthps.vercel.app/python.webp"/> </a>
+
 </p>
 
 <br/>
 
 ## 🤖 Stats
 <p align="left">
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
 
   <br/>
   <img alt="Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-babu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
@@ -50,6 +47,7 @@ hours of coding experience in Javascript.
     </a>
     <br/>
   <img alt="Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-babu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
 </p>
 <br/>
 
