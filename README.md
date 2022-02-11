@@ -32,8 +32,6 @@ hours of coding experience in Javascript.
 </p>
 
 <br/>
-
-## 🤖 Stats
 <p align="left">
 
   <br/>
@@ -45,10 +43,12 @@ hours of coding experience in Javascript.
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-babu">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-babu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
+ </p>
     <br/>
   <img alt="Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-babu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
-</p>
+  
+
 <br/>
 
 ## ❤ Views and Followers
