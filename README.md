@@ -14,7 +14,30 @@ hours of coding experience in Javascript.
 [![Instagram](https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/keshavbabu742/)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/getsushanthps/) -->
 <a href="mailto:keshavmandal39@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=ko-fi&logoColor=white"/> </a> 
-
+<p align="center">
+	[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-mandal-403a61145/)
+	<a href="https://twitter.com/Pavan_Kumar_365">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+<!-- 	<a href="https://www.instagram.com/Pavan_Kumar_365_/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+	</a> -->
+<!-- 	<a href="https://dev.to/Pavan_Kumar_365">
+		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+	</a> -->
+<!-- 	<a href="https://dev.to/Pavan_Kumar_365">
+		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+	</a> -->
+        <a href="https://pavan-portfolio-liard.vercel.app/">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+<!-- 	<a href="#">
+		 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+	</a> -->
+        <a href="mailto:pavankumarthota1@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
 <br/>
 
   
