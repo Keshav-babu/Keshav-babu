@@ -28,7 +28,6 @@ hours of coding experience in Javascript.
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://expressjs.com" target="_blank"> <img src="https://sushanthps.vercel.app/express.webp" alt="express" width="45" height="45"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img width="40" height="40"  src="https://sushanthps.vercel.app/mysql.webp"/> </a>
     <a href="https://redux.js.org/" target="_blank"> <img width="55" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/> </a>
 
 </p>
