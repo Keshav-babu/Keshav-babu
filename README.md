@@ -36,6 +36,13 @@ hours of coding experience in Javascript.
 <!-- <p align="left">
   <img alt="Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-babu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p> -->
+### 🧑🏻‍💻 Tools & Platform
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 ## 🤖 Stats
 <p align="center">
