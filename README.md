@@ -38,7 +38,7 @@ hours of coding experience in Javascript.
 	</a>
 </p>
 <br/>
-![Pavans's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Keshav-babu&hide_border=true&theme=redical)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Keshav-babu)](https://github.com/Keshav-babu/github-readme-activity-graph)
   
 ## 🛠 Tech Stack
 <p> 
