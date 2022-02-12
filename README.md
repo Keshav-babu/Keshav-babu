@@ -9,7 +9,7 @@ hours of coding experience in Javascript.
 
   
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keshav-babu.github.io/pofolio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cocky-darwin-c131ab.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-mandal-403a61145/)
 [![HackerRank](https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.instagram.com/keshavbabu742/)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/getsushanthps/) -->
