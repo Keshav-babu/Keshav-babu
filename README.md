@@ -39,7 +39,7 @@ hours of coding experience in Javascript.
 </p> -->
 
 ## 🤖 Stats
-<p align="center">
+<p align="left">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-babu">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Keshav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-   babu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
