@@ -13,7 +13,7 @@ hours of coding experience in Javascript.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-mandal-403a61145/)
 [![Instagram](https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/keshavbabu742/)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/getsushanthps/) -->
-<a href="mailto:keshavmandal39@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+<a href="mailto:keshavmandal39@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=ko-fi&logoColor=white"/> </a> 
 
 <br/>
 
