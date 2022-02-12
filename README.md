@@ -65,8 +65,8 @@ Keshav-babu/Keshav-babu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ThotaPavanKumar&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ThotaPavanKumar&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keshav-babu&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-babu&hide_border=true&theme=radical" />
 </p>
 
 ---
