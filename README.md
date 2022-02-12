@@ -39,13 +39,10 @@ hours of coding experience in Javascript.
 </p> -->
 
 ## 🤖 Stats
-<p align="left">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-babu">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Keshav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-   babu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-           <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav-babu&show_icons=true&locale=en" alt="keshav-babu" /></p>
-    </a>
- 
- </p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keshav-babu&show_icons=true&hide_border=true&theme=white" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-babu&hide_border=true&theme=white" />
+</p>
  <img alt="Keshav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-babu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
   
@@ -64,9 +61,6 @@ hours of coding experience in Javascript.
 Keshav-babu/Keshav-babu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keshav-babu&show_icons=true&hide_border=true&theme=white" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav-babu&hide_border=true&theme=radical" />
-</p>
+
 
 ---
