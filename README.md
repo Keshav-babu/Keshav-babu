@@ -15,7 +15,6 @@ hours of coding experience in Javascript.
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/getsushanthps/) -->
 <a href="mailto:keshavmandal39@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=ko-fi&logoColor=white"/> </a> 
 <p align="center">
-	[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-mandal-403a61145/)
 	<a href="https://twitter.com/Pavan_Kumar_365">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
@@ -39,7 +38,7 @@ hours of coding experience in Javascript.
 	</a>
 </p>
 <br/>
-
+![Pavans's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Keshav-babu&hide_border=true&theme=redical)
   
 ## 🛠 Tech Stack
 <p> 
