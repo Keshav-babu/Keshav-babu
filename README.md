@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Mandal</h1>
 
 ## 🚀About Me
-An aspiring Full-Stack Web Developer with 1000+
-hours of coding experience in Javascript.
+FrontEnd Developer with having 3+ years of experience working at wakefit.co . I am skilled in JavaScript, ReactJs, ReduxJs, HTML, CSS, NextJs.
 
 <br/>
 
